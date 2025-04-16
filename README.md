@@ -1,16 +1,81 @@
-## Hi there 👋
+## José :)
+**`Desenvolvedor de Sistemas`**
 
-<!--
-**tavaresjsvn/tavaresjsvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou Josevan Tavares (ou apenas José). Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Alpha, em Recife. Aqui no GitHub, compartilho meus projetos e exercícios para demonstrar minha habilidades técnicas enquanto evoluo para me tornar um desenvolvedor full-stack capaz de cria aplicações otimizadas que resolvam problemas reais.
 
-Here are some ideas to get you started:
+Fique à vontade para explorar meus repositórios e entrar em contato se quiser trocar ideias ou colaborar em algum projeto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href = "mailto:tavaresjsvn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="www.linkedin.com/in/josevan-tavares-182b93311" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+
+---
+### Linguagens e Tecnologias 💾
+
+<img
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 30px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
+<img 
+  align="left"
+  alt="mySQL"
+  title="mySQL"
+  width="30px"
+  style="padding-right: 30px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+
+ <img 
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 30px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
+
+ <img 
+  align="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 30px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img 
+  align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="30px"
+  style="padding-right: 30px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img 
+  align="left"
+  alt="Git"
+  title="Git"
+  width="30px"
+  style="padding-right: 30px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br>
+<br>
+
+### Estatísticas 📈
+
+<img 
+  align="left"
+  alt="GitHub Stats"
+  height=200
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=tavaresjsvn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img 
+  align="left"
+  alt="GitHub Stats"
+  height=200
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresjsvn&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+/>
