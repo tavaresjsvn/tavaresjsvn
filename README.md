@@ -6,7 +6,7 @@ Olá, eu sou Josevan Tavares (ou apenas José). Tenho 25 anos e sou estudante de
 Fique à vontade para explorar meus repositórios e entrar em contato se quiser trocar ideias ou colaborar em algum projeto.
 
  <a href = "mailto:tavaresjsvn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="www.linkedin.com/in/josevan-tavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="www.linkedin.com/in/josevan-tavares" target="www.linkedin.com/in/josevan-tavares"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 ---
 ### Linguagens e Tecnologias 💾
