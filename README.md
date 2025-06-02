@@ -1,7 +1,7 @@
 ## José :)
 **`Desenvolvedor de Sistemas`**
 
-Olá, eu sou Josevan Tavares (ou apenas José). Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Alpha, em Recife. Aqui no GitHub, compartilho meus projetos e exercícios para demonstrar minha habilidades técnicas enquanto evoluo para me tornar um desenvolvedor full-stack capaz de cria aplicações otimizadas que resolvam problemas reais.
+Olá, eu sou Josevan Tavares (ou apenas José). Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Alpha, em Recife. Aqui no GitHub, compartilho meus projetos e exercícios para demonstrar minha habilidades técnicas enquanto evoluo para me tornar um desenvolvedor back-end capaz de cria aplicações otimizadas que resolvam problemas reais.
 
 Fique à vontade para explorar meus repositórios e entrar em contato se quiser trocar ideias ou colaborar em algum projeto.
 
